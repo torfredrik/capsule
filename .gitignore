@@ -11,4 +11,5 @@ _site/
 /build
 /*/build
 .gradle/
+.sonar/
 .nb-gradle-properties
