@@ -8,6 +8,7 @@ _site/
 /artifacts
 /nbproject/private/
 /.nb-gradle
-build/
+/build
+/*/build
 .gradle/
 .nb-gradle-properties
